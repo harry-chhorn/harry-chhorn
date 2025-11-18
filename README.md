@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fblack-white-square-pattern&psig=AOvVaw1xcf53yeGZ9gTHN9rTQ1nz&ust=1763573408421000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNimi4md_JADFQAAAAAdAAAAABAE"/>
+  <!-- <img src="https://previews.123rf.com/images/kebox/kebox1812/kebox181200034/113390577-wide-background-banner-checkered-black-and-white.jpg"/> -->
+  <img src="https://previews.123rf.com/images/kebox/kebox1812/kebox181200108/114008341-wide-background-banner-checkered-black-and-white.jpg"/> 
 </p>
 
 <h1 align="center">Hi, I'm Harry 👋</h1>
